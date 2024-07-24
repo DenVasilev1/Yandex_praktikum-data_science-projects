@@ -30,4 +30,4 @@
 Статистическая значимость различий в среднем чеке заказа между группами по «очищенным» данным
 Вывод - решение по результатам теста
 
-Используемые библиотеки: pandas, numpy, matplotlib.pyplot, plotly.express, scipy.stats
+Используемые библиотеки: pandas, numpy, matplotlib.pyplot, scipy.stats
